@@ -1,0 +1,20 @@
+Used Software Tools for Project
+
+Android Studio
+Google Colab
+
+Include Files
+
+Check Image Model - FinalCheckimg.ipynb
+		        finalcheckimg.py
+			  FinalCheckimg.tflite
+
+Plant Disease Model - FinalCropSolModel.ipynb
+                      finalcropsolmodel.py
+                      FinalCropSolModel.tflite
+
+Firebase Database - newcropsol-default-rtdb-export.json
+
+Final Year Project Report - CB010415
+
+NewCropSol - Android Studio Zip File

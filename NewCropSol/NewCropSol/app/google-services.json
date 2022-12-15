@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "128188140853",
+    "firebase_url": "https://newcropsol-default-rtdb.firebaseio.com",
+    "project_id": "newcropsol",
+    "storage_bucket": "newcropsol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128188140853:android:8920ef82ae9718fd7b907c",
+        "android_client_info": {
+          "package_name": "com.example.newcropsol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128188140853-4681vf1kluh3afft5btvpeh3vlnqbvq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdHFBXuuhQ0rjhaXEztRIqCcMLXIupe6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128188140853-4681vf1kluh3afft5btvpeh3vlnqbvq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

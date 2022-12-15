@@ -1,0 +1,32 @@
+{
+  "Register Users": {
+    "Janaka": {
+      "email": "janaka@gmail.com",
+      "name": "Janaka Kumara",
+      "password": "abc@123",
+      "phoneNo": "112233",
+      "username": "Janaka"
+    },
+    "chamara": {
+      "email": "pubudu.chamara753@gmail.com",
+      "name": "chamara",
+      "password": "abc@123",
+      "phoneNo": "2233",
+      "username": "chamara"
+    },
+    "pubudu": {
+      "email": "pubudu.chamara753@gmail.com",
+      "name": "Pubudu Chamara",
+      "password": "123@abc",
+      "phoneNo": "0712345678",
+      "username": "pubudu"
+    },
+    "rashmi": {
+      "email": "pubudu.chamara753@gmail.com",
+      "name": "Rashmi",
+      "password": "abcd@1234",
+      "phoneNo": "2233",
+      "username": "rashmi"
+    }
+  }
+}
